@@ -18,10 +18,10 @@ Rather than add features to an IDE to make it more like a dashboard, build a das
 all the features of a code editor IDE and the rest.
 
 # Split Resizeable Panels
-https://github.com/Tom-Rawlings/Resizable.js/blob/master/resizable.js
-https://github.com/cfware/panel-splitter
-https://github.com/nathancahill/split
-https://github.com/ashduckett/PureJS-SplitterBar
+- https://github.com/Tom-Rawlings/Resizable.js/blob/master/resizable.js
+- https://github.com/cfware/panel-splitter
+- https://github.com/nathancahill/split
+- https://github.com/ashduckett/PureJS-SplitterBar
 
 
 # Drag and drop panels
@@ -66,18 +66,18 @@ https://jqueryui.com/tabs/#sortable
 
 
 # Code editor
-Codemirror
-Autocomplete
+- Codemirror
+- Autocomplete
 
 # Command terminal
-https://www.jqueryscript.net/text/jQuery-Command-Line-Interpreter-Plugin-Terminal-Emulator.html
+- https://www.jqueryscript.net/text/jQuery-Command-Line-Interpreter-Plugin-Terminal-Emulator.html
 
 
 # Notebook
-https://github.com/JoelOtter/kajero
-https://github.com/runkitdev
-https://github.com/qiushiyan/js-notebook
-https://github.com/jorgehpo/notebookJS
-https://starboard.gg/
-https://github.com/gzuidhof/starboard-notebook
+- https://github.com/JoelOtter/kajero
+- https://github.com/runkitdev
+- https://github.com/qiushiyan/js-notebook
+- https://github.com/jorgehpo/notebookJS
+- https://starboard.gg/
+- https://github.com/gzuidhof/starboard-notebook
 
