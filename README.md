@@ -32,6 +32,11 @@ https://interactjs.io/pro/
 - https://github.com/Flyer53/jsPanel4
 - https://gridstackjs.com/#
 - https://golden-layout.com/
+- [GoldenLayout- a multi-window javascript layout manager for webapps](https://golden-layout.com/faq/)
+- [SlickGrid Home](https://slickgrid.net/)
+- [gridster.js](http://dsmorse.github.io/gridster.js/#demos)
+- [Masonry · Methods](https://masonry.desandro.com/methods.html)
+- [Isotope · packery](https://isotope.metafizzy.co/layout-modes/packery.html)
 
 
 # Draggable tabs
