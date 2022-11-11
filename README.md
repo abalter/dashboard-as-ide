@@ -8,6 +8,7 @@ A datascience IDE has a number of common parts:
 - Help documentation
 - File explorer/manager/tree
 - Notebook preview
+- Command terminal
 
 Maybe others as well
 
@@ -18,11 +19,21 @@ all the features of a code editor IDE and the rest.
 
 # Resizeable Panels
 https://github.com/Tom-Rawlings/Resizable.js/blob/master/resizable.js
+https://github.com/cfware/panel-splitter
+
 
 # Drag and drop panels
 
 
+# Panels
+https://github.com/Flyer53/jsPanel4
+
+
 # Draggable tabs
+
+
+# UI Kits
+https://github.com/vitmalina/w2ui
 
 
 # Panels
@@ -50,3 +61,6 @@ https://github.com/Tom-Rawlings/Resizable.js/blob/master/resizable.js
 # Code editor
 Codemirror
 Autocomplete
+
+# Command terminal
+https://www.jqueryscript.net/text/jQuery-Command-Line-Interpreter-Plugin-Terminal-Emulator.html
