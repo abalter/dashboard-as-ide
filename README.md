@@ -76,6 +76,8 @@ https://www.jqueryscript.net/text/jQuery-Command-Line-Interpreter-Plugin-Termina
 # Notebook
 https://github.com/JoelOtter/kajero
 https://github.com/runkitdev
-
-
+https://github.com/qiushiyan/js-notebook
+https://github.com/jorgehpo/notebookJS
+https://starboard.gg/
+https://github.com/gzuidhof/starboard-notebook
 
