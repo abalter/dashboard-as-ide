@@ -38,9 +38,9 @@ https://jqueryui.com/tabs/#sortable
 
 
 # UI Kits
-https://github.com/vitmalina/w2ui
-https://github.com/tabler/tabler
-https://webix.com/javascript-dashboards/
+- https://github.com/vitmalina/w2ui
+- https://github.com/tabler/tabler
+- https://webix.com/javascript-dashboards/
 
 
 # Panels
