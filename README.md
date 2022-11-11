@@ -33,8 +33,6 @@ https://github.com/Flyer53/jsPanel4
 
 
 # Draggable tabs
-
-
 https://jqueryui.com/tabs/#sortable
 
 
