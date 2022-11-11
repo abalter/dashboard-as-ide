@@ -29,9 +29,9 @@ https://interactjs.io/pro/
 
 
 # Panels
-https://github.com/Flyer53/jsPanel4
-https://gridstackjs.com/#
-https://golden-layout.com/
+- https://github.com/Flyer53/jsPanel4
+- https://gridstackjs.com/#
+- https://golden-layout.com/
 
 
 # Draggable tabs
