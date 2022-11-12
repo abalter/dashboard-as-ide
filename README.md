@@ -28,7 +28,7 @@ all the features of a code editor IDE and the rest.
 https://interactjs.io/pro/
 
 
-# Panels
+# Layout Docks and Panels
 - https://github.com/Flyer53/jsPanel4
 - https://gridstackjs.com/#
 - https://golden-layout.com/
@@ -37,6 +37,9 @@ https://interactjs.io/pro/
 - [gridster.js](http://dsmorse.github.io/gridster.js/#demos)
 - [Masonry · Methods](https://masonry.desandro.com/methods.html)
 - [Isotope · packery](https://isotope.metafizzy.co/layout-modes/packery.html)
+- [mathuodockview Zero dependency layout manager and builder with ReactJS support](https://github.com/mathuo/dockview)
+- [Contributors to FransebasFlexLayout](https://github.com/Fransebas/FlexLayout/graphs/contributors)
+- [Contributors to caplinFlexLayout](https://github.com/caplin/FlexLayout/graphs/contributors)
 
 
 # Draggable tabs
