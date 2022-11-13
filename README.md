@@ -40,6 +40,8 @@ https://interactjs.io/pro/
 - [mathuodockview Zero dependency layout manager and builder with ReactJS support](https://github.com/mathuo/dockview)
 - [Contributors to FransebasFlexLayout](https://github.com/Fransebas/FlexLayout/graphs/contributors)
 - [Contributors to caplinFlexLayout](https://github.com/caplin/FlexLayout/graphs/contributors)
+- https://github.com/node-projects/dock-spawn-ts
+
 
 
 # Draggable tabs
