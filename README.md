@@ -53,6 +53,7 @@ https://jqueryui.com/tabs/#sortable
 - https://github.com/vitmalina/w2ui
 - https://github.com/tabler/tabler
 - https://webix.com/javascript-dashboards/
+- http://www.jeasyui.com/
 
 
 # Panels
