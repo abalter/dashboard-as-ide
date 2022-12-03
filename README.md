@@ -76,6 +76,9 @@ https://jqueryui.com/tabs/#sortable
 - Tree and details
 - Details table
 
+# Command Line
+- https://www.jqueryscript.net/text/jQuery-Command-Line-Interpreter-Plugin-Terminal-Emulator.html
+
 
 
 # Code editor
