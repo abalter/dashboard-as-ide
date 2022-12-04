@@ -63,7 +63,8 @@ https://jqueryui.com/tabs/#sortable
 - Drag splitters
 - Add and remove
 
-
+# Window Manager
+- https://github.com/nextapps-de/winbox
 
 # Table viewer/editor
 - Must sort
