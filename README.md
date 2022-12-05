@@ -98,3 +98,22 @@ https://jqueryui.com/tabs/#sortable
 - https://starboard.gg/
 - https://github.com/gzuidhof/starboard-notebook
 
+
+If I search for "drag and drop panels" or "drag and drop tabs" I mostly come up with grid libraries allow resizing and/or drag&drop where other grids/panels move and resize to accommodate:
+
+- [Gridster](http://dsmorse.github.io/gridster.js/#demos)  
+- [Gridstack](https://gridstackjs.com/#)  
+- [ResizeableJS](https://github.com/Tom-Rawlings/Resizable.js)  
+- [Isotope](https://isotope.metafizzy.co/methods.html)  
+- Others
+
+# Docking Layouts
+- [GoldenLayout](http://golden-layout.com/)  
+- [Dockview](https://dockview.dev/)  
+- [Flex Layout](https://rawgit.com/caplin/FlexLayout/demos/demos/v0.30/demo/index.html)  
+- [DockSpawn](https://node-projects.github.io/dock-spawn-ts/page/demo/ide/demo.html)
+- [PhosphorJS](https://github.com/phosphorjs/phosphor)
+
+
+
+
