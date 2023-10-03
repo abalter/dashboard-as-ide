@@ -1,8 +1,14 @@
-Hi @vitmalina. I understand your point, and there may be many who agree with you from a strictly UI theory point of view. However, if you look at science-oriented IDEs, they all work like this. Scientific programmers are no longer writing programs. We do everything with data and visualization. Consequently, IDEs have turned into dashboards with this kind of drag-and-drop capability. A science-oriented IDE will have source panes, a command line, a terminal, a file explorer, a help panel, a plot panel, a history panel, etc., etc. And the user wants to arrange these to their liking.
+If you look at science-oriented IDEs, they all work like this. Scientific programmers are no longer strictly writing programs. We do everything with data and visualization. Consequently, IDEs have turned into dashboards with this kind of drag-and-drop capability. A science-oriented IDE will have source panes, a command line, a terminal, a file explorer, a help panel, a plot panel, a history panel, etc., etc. And the user wants to arrange these to their liking.
 
-Consider the images below of some common IDEs.
+I think the _dashboard_ is becoming an extremely common and versatile application paradigm which has led to a multitude of libraries that each provide _some_ of the toolset needed to make them. In fact, I believe that all modern data science IDEs are essentially already dashboards or, in the case of VS Code, a set of plugins to turn a code editor into a dashboard.
 
-I want to build a pure javascript IDE like that. I understand that may be different from your use case. But it is why I want a UI with this sort of flexibility.
+Consider the following images of RStudio, Spyder, Matlab, and VS Code:
+
+The basis of these applications are a grid of _panels_ which may further contain sub-panels or tabs. Generally, these panels have header bars and can be placed within the application window with some amount of freedom. Likewise for the sub-panels and tabs. In most cases these can be minimized, maximized, closed, dragged and dropped, and even popped-out and re-docked.
+
+These panels can contain many different widget types such as editors, data tables, file explorers, command terminals, plots, help documentation, and others. There are great widget libraries that can be used for these. But for the basic dashboard/IDE functionality, I haven't found a single library with all the needed features/properties.
+
+I want to build a pure javascript IDE like that.
 
 # Matlab
 
