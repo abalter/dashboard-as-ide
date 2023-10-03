@@ -17,7 +17,9 @@ Many of these naturally fit into dashboards.
 Rather than add features to an IDE to make it more like a dashboard, build a dashboard that has 
 all the features of a code editor IDE and the rest.
 
+# More detail
 [More detailed description](https://github.com/abalter/dashboard-as-ide/blob/main/brief-description.md).
+
 
 # Resources to explore
 
